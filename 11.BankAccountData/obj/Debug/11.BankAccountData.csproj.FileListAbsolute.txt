@@ -1,0 +1,6 @@
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\01.DeclareVariables\11.BankAccountData\bin\Debug\11.BankAccountData.exe.config
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\01.DeclareVariables\11.BankAccountData\bin\Debug\11.BankAccountData.exe
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\01.DeclareVariables\11.BankAccountData\bin\Debug\11.BankAccountData.pdb
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\01.DeclareVariables\11.BankAccountData\obj\Debug\11.BankAccountData.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\01.DeclareVariables\11.BankAccountData\obj\Debug\11.BankAccountData.exe
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\01.DeclareVariables\11.BankAccountData\obj\Debug\11.BankAccountData.pdb

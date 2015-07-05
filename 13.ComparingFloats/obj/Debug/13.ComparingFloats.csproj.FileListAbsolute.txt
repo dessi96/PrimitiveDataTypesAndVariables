@@ -1,0 +1,6 @@
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\01.DeclareVariables\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe.config
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\01.DeclareVariables\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\01.DeclareVariables\13.ComparingFloats\bin\Debug\13.ComparingFloats.pdb
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\01.DeclareVariables\13.ComparingFloats\obj\Debug\13.ComparingFloats.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\01.DeclareVariables\13.ComparingFloats\obj\Debug\13.ComparingFloats.exe
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\01.DeclareVariables\13.ComparingFloats\obj\Debug\13.ComparingFloats.pdb

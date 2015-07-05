@@ -1,0 +1,11 @@
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\01.DeclareVariables\14.PrintASCIITable\bin\Debug\14.PrintASCIITable.exe.config
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\01.DeclareVariables\14.PrintASCIITable\bin\Debug\14.PrintASCIITable.exe
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\01.DeclareVariables\14.PrintASCIITable\bin\Debug\14.PrintASCIITable.pdb
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\01.DeclareVariables\14.PrintASCIITable\obj\Debug\14.PrintASCIITable.exe
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\01.DeclareVariables\14.PrintASCIITable\obj\Debug\14.PrintASCIITable.pdb
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Homework. PrimitiveDataTypesAndVariables\14.PrintASCIITable\bin\Debug\14.PrintASCIITable.exe.config
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Homework. PrimitiveDataTypesAndVariables\14.PrintASCIITable\obj\Debug\14.PrintASCIITable.exe
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Homework. PrimitiveDataTypesAndVariables\14.PrintASCIITable\obj\Debug\14.PrintASCIITable.pdb
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Homework. PrimitiveDataTypesAndVariables\14.PrintASCIITable\bin\Debug\14.PrintASCIITable.exe
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Homework. PrimitiveDataTypesAndVariables\14.PrintASCIITable\bin\Debug\14.PrintASCIITable.pdb
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Homework. PrimitiveDataTypesAndVariables\14.PrintASCIITable\obj\Debug\14.PrintASCIITable.csprojResolveAssemblyReference.cache

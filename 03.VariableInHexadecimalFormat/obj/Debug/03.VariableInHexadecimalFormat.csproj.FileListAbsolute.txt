@@ -1,0 +1,6 @@
+d:\users\asus\documents\visual studio 2013\Projects\01.DeclareVariables\03.VariableInHexadecimalFormat\bin\Debug\03.VariableInHexadecimalFormat.exe.config
+d:\users\asus\documents\visual studio 2013\Projects\01.DeclareVariables\03.VariableInHexadecimalFormat\obj\Debug\03.VariableInHexadecimalFormat.csprojResolveAssemblyReference.cache
+d:\users\asus\documents\visual studio 2013\Projects\01.DeclareVariables\03.VariableInHexadecimalFormat\bin\Debug\03.VariableInHexadecimalFormat.exe
+d:\users\asus\documents\visual studio 2013\Projects\01.DeclareVariables\03.VariableInHexadecimalFormat\bin\Debug\03.VariableInHexadecimalFormat.pdb
+d:\users\asus\documents\visual studio 2013\Projects\01.DeclareVariables\03.VariableInHexadecimalFormat\obj\Debug\03.VariableInHexadecimalFormat.exe
+d:\users\asus\documents\visual studio 2013\Projects\01.DeclareVariables\03.VariableInHexadecimalFormat\obj\Debug\03.VariableInHexadecimalFormat.pdb

@@ -1,0 +1,5 @@
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\01.DeclareVariables\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.exe.config
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\01.DeclareVariables\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.exe
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\01.DeclareVariables\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.pdb
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\01.DeclareVariables\07.QuotesInStrings\obj\Debug\07.QuotesInStrings.exe
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\01.DeclareVariables\07.QuotesInStrings\obj\Debug\07.QuotesInStrings.pdb

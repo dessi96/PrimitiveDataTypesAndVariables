@@ -1,0 +1,8 @@
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\01.DeclareVariables\15.JoroTheFootballPlayer\bin\Debug\15.JoroTheFootballPlayer.exe.config
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\01.DeclareVariables\15.JoroTheFootballPlayer\bin\Debug\15.JoroTheFootballPlayer.exe
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\01.DeclareVariables\15.JoroTheFootballPlayer\bin\Debug\15.JoroTheFootballPlayer.pdb
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\01.DeclareVariables\15.JoroTheFootballPlayer\obj\Debug\15.JoroTheFootballPlayer.exe
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\01.DeclareVariables\15.JoroTheFootballPlayer\obj\Debug\15.JoroTheFootballPlayer.pdb
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Homework. PrimitiveDataTypesAndVariables\15.JoroTheFootballPlayer\bin\Debug\15.JoroTheFootballPlayer.exe.config
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Homework. PrimitiveDataTypesAndVariables\15.JoroTheFootballPlayer\obj\Debug\15.JoroTheFootballPlayer.exe
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Homework. PrimitiveDataTypesAndVariables\15.JoroTheFootballPlayer\obj\Debug\15.JoroTheFootballPlayer.pdb

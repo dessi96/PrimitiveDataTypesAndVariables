@@ -1,0 +1,6 @@
+d:\users\asus\documents\visual studio 2013\Projects\01.DeclareVariables\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe.config
+d:\users\asus\documents\visual studio 2013\Projects\01.DeclareVariables\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\01.DeclareVariables\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\01.DeclareVariables\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.pdb
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\01.DeclareVariables\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.exe
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\01.DeclareVariables\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.pdb
